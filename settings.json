@@ -9,6 +9,7 @@
     "terminal.integrated.fontSize": 17,
     "terminal.integrated.lineHeight": 1.4,
     "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.editor.wrapTabs": true,
     "files.autoSave": "afterDelay",
     "files.autoGuessEncoding": true,
     "files.eol": "\n",
